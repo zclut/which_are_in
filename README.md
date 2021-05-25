@@ -7,7 +7,7 @@ Given two arrays of strings ```a1``` and ```a2``` return a sorted array ```r``` 
 
 ```a2 = ["lively", "alive", "harp", "sharp", "armstrong"]```  
 
-returns ```["arp", "live", "strong"]  
+returns ```["arp", "live", "strong"]```
 
 
 **Example 2:**  
